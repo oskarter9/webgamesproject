@@ -19,7 +19,7 @@ package
 		
 
 		
-
+		public var laneta:Number;
 		public var congelado:Boolean;
 		
 		public var posAnteriorX:Number;
